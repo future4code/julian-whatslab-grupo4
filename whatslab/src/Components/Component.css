@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://www.papeiseparede.com.br/3260-thickbox_default/papel-de-parede-emojis-chat-cinza.jpg");
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px auto ;
+    width: 30vw;  
+}
+
+.container {
+    margin: 0px auto;
+    border: 1px solid black;
+    width: 30vw;
+    height: 80vh;
+    background-color: beige;
+}
+
+p {
+    margin-left: 20px;
+}
+
+.usuario {
+    width: 25%;
+    border-radius: 5px;
+}
+
+.mensagem{
+    width: 55%;
+    border-radius: 5px;
+}
+
+.botao {
+    border-radius: 5px;
+    border: 1px solid blue;
+}
